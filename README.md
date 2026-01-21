@@ -7,8 +7,8 @@ for my journey as a Computer Science and Engineering student.
 
 ---
 ## 🔗 Live Demo & Links
-* **Live Website:** [Click Here to View](https://fawzia-akter-chowdhury.github.io/Portfolio-Website/)
-* **GitHub:** [@Fawzia-Akter-Chowdhury](https://github.com/Fawzia-Akter-Chowdhury)
+* **Live Website:** https://fawzia-akter-chowdhury.github.io/Portfolio-Website/
+* **GitHub:** https://github.com/Fawzia-Akter-Chowdhury
 
 ---
 ## 🚀 Key Features
