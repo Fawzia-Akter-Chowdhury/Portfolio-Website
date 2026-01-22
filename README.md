@@ -9,7 +9,7 @@ for my journey as a Computer Science and Engineering student.
 ## 🔗 Live Demo & Links
 * **Live Website:** https://fawzia-akter-chowdhury.github.io/Portfolio-Website/
 * **GitHub:** https://github.com/Fawzia-Akter-Chowdhury
-
+* **Figma prototype:** https://www.figma.com/design/LfDOqVHKTkD3Mh8SBDR9kL/Portfolio?node-id=0-1&t=GamEhUrB7WuPIs8q-1
 ---
 ## 🚀 Key Features
 - *Responsive Design* 
@@ -21,7 +21,7 @@ for my journey as a Computer Science and Engineering student.
 
 ---
 
-### 1. Home Section (Landing Page)
+### Home Section (Landing Page)
 The hero section designed to give a strong first impression.
 * *Includes greeting , tagline *
 * **Quick Actions:** Includes social media icons (GitHub, LinkedIn, Email, Facebook) and
@@ -59,7 +59,15 @@ A structured timeline of my academic journey.
 - `assets/`: Stores images, icons, and CV PDF.
 
 ---
+## 📌 Future Improvements
 
+* Dark / Light theme toggle
+* Backend-based contact form
+* SEO optimization
+* Animations for motion and transition
+* Accessibility enhancements
+
+---
 
 ### 📩 Contact Information
 - **Email:** fawziaakter2022@gmail.com
